@@ -1,0 +1,23 @@
+* {
+    background-color: #F3F3F3;
+    font-family: 'Rajdhani', sans-serif;
+    padding: 10px;
+    margin: 0;
+
+}
+
+body {
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+textarea {
+    border: 2px solid;
+}
+
+textarea, input {
+    border-color: #DE354C;
+}
