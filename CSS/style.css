@@ -2,12 +2,12 @@
     background-color: #F3F3F3;
     font-family: 'Rajdhani', sans-serif;
     padding: 10px;
-    margin: 0;
-
+    margin:0;
+    color: #283747;
 }
 
 body {
-    justify-content: center;
+    text-align: center;
 }
 
 h1 {
@@ -16,8 +16,14 @@ h1 {
 
 textarea {
     border: 2px solid;
+    vertical-align: middle;
 }
 
 textarea, input {
-    border-color: #DE354C;
+    border-color: #3C1874;
 }
+
+.material-icons {
+    color: #3C1874;
+}
+
